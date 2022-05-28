@@ -1,0 +1,27 @@
+.Messenger {
+  padding: 10px 40px;
+  border: 2px solid black;
+  border-radius: 50px;
+  font-size: 20px;
+  font-weight: 700;
+  position: fixed;
+  top: 320px;
+  left: 100px;
+}
+
+.Line {
+  font-size: 90px;
+  font-weight: 700;
+  padding: 180px 51px;
+}
+
+.Get-Started {
+  padding: 10px 50px;
+  border: 2px solid white;
+  background-color: greenyellow;
+  border-radius: 50px;
+  position: fixed;
+  font-size: 20px;
+  bottom: 100px;
+  left: 100px;
+}

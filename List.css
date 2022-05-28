@@ -1,0 +1,68 @@
+.Header {
+  width: 100%;
+  background-color: greenyellow;
+  display: flex;
+  flex-direction: column;
+}
+.Upheader {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+.Logo {
+  font-size: 30px;
+}
+
+.Icon-Wrapper {
+  display: flex;
+}
+
+.Search {
+  font-size: 30px;
+  margin-right: 7px;
+}
+
+.Setting {
+  font-size: 30px;
+}
+
+.Downheader {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.Chats {
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.Userbox {
+  display: flex;
+  padding: 1px 15px;
+}
+
+.Image {
+  padding: 1px;
+  font-size: 50px;
+}
+
+.Username {
+  margin-left: 10px;
+  margin-right: 50px;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.Activetime {
+  padding-top: 10px;
+  padding-left: 170px;
+}
+
+.Count {
+  margin: 35px -35px;
+}
+
+.Chattingarea {
+  margin: 35px -265px;
+}
